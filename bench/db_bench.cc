@@ -15,6 +15,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <chrono>
+#include <memory>
 
 #include "leveldb/env.h"
 #include "testutil.h"
